@@ -14,7 +14,7 @@ const LandingPage = () => {
           marginTop: "2em"
         }}
       >
-        Welcome to Activity Logger
+        Welcome to Activity Logger!!
       </Header>
       <Header
         as="h2"
